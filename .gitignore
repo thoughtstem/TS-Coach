@@ -8,3 +8,5 @@
 doc/
 *.bak
 *.html
+*.dep
+*.zo
