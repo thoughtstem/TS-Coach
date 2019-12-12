@@ -10,3 +10,5 @@ doc/
 *.html
 *.dep
 *.zo
+*.dep
+*.zo
