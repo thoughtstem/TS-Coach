@@ -1,1 +1,0 @@
-("7.0" ("157381427e56e9d84aaf429dc4dca4600d83c37b" . "eb6c13e0e85e722a8c9b4dea77d6e88cb9f77b73") #"C:\\Sites\\Projects\\TS-Coach\\ts-tactics\\tactics\\base\\base-base.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
